@@ -1,0 +1,8 @@
+
+03-bases_node/salida/*.txt
+
+03-bases_node/node_modules
+
+node_info.md
+
+.DS_Store
