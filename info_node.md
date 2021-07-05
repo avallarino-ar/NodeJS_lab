@@ -68,11 +68,18 @@ sudo npm uninstall -g nodemon
 
 
 ### Crear el package.json
-npm init 
+npm init -y
 # seteo la config. y cuando agrego un paquete, se registra en la parte de "dependencies"
 # si quiero que solo sea para DEV, al instalarlo le indico --save-dev, y se registra en "devDependencies"
 # para desinstalar: npm uninstall <paquete>
 
 
+
 ### Isntalar yargs
 npm i yargs
+
+
+### inquirer: https://www.npmjs.com/package/inquirer
+npm install inquirer
+
+### Instala UUID
