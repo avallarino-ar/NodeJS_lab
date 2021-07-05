@@ -1,6 +1,6 @@
 # NodeJS
 
-### App de tareas con menú interactivo
+### App de tareas con menú interactivo
 
 **Librerías:**
 
