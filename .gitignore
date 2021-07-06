@@ -1,7 +1,8 @@
 
 03-bases_node/node_modules
 04-ToDo/node_modules
-
+05-clima_app/node_modules
+05-clima_app/.env
 
 info_node.md
 .DS_Store
