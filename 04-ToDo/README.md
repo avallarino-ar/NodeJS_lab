@@ -20,6 +20,6 @@
 
 --- 
 
-[Curos: Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
+[Curso: Fernando Herrera](https://www.udemy.com/user/550c38655ec11/)
 
 ----
