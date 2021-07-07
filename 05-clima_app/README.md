@@ -1,7 +1,7 @@
 # NodeJS
 
 ### App de clima con menú interactivo
-Permite consultar el clima de alguna localidady mantiene un historial (.json) en de las últimas 5 búsquedas.
+Permite consultar el clima de alguna localidad y mantiene un historial (.json) en de las últimas 5 búsquedas.
 
 **Librerías:**
 

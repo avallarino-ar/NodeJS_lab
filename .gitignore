@@ -3,6 +3,10 @@
 04-ToDo/node_modules
 05-clima_app/node_modules
 05-clima_app/.env
+06-webserver
+07-restserver/node_modules
+
+http-response-codes.pdf
 
 info_node.md
 .DS_Store
